@@ -54,6 +54,7 @@ body{
   color:inherit;
   cursor:pointer;
   transition:all 0.3s;
+  outline:none;
   color:rgba(255, 255, 255, 0.425);
 }
 .rate:hover{
