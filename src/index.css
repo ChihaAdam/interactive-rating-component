@@ -53,7 +53,7 @@ body{
   border:none;
   color:inherit;
   cursor:pointer;
-  transition:background-color 0.3s;
+  transition:all 0.3s;
   color:rgba(255, 255, 255, 0.425);
 }
 .rate:hover{
