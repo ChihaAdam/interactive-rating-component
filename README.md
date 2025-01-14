@@ -40,7 +40,7 @@ To get started with the project locally, follow these steps:
    npm start
    ```
 
-   Your app will be running on [http://localhost:3000](http://localhost:3000).
+   Your app will be running on [http://localhost:3000](http://localhost:5173).
 
 ## Usage
 
